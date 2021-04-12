@@ -39,6 +39,6 @@ You can now run the line based reconstruction (if you don't know yet the optimal
     
 Evaluation is possible thanks to the `mesh_metrics` executable
 
-    $LINE_RECONS/cmake-build-release/mesh_metrics cp_10_cv_1_ca_0_ce_0.01_cc_0.1.ply data-line-surface-reconstruction/HouseInterior/ground_truth.ply 1000000
+    $LINE_RECONS/build/mesh_metrics cp_10_cv_1_ca_0_ce_0.01_cc_0.1.ply data-line-surface-reconstruction/HouseInterior/ground_truth.ply 1000000
     
 
