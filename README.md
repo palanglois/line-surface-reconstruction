@@ -1,5 +1,5 @@
 # [Surface Reconstruction from 3D Line Segments](http://imagine.enpc.fr/~langloip/index.html?page=line_recons)
-**Surface reconstruction from 3d line segments. <br>**
+**Surface reconstruction from 3d line segments. [[Paper]](https://arxiv.org/pdf/1911.00451.pdf) [[Supplementary Material]](http://imagine.enpc.fr/~langloip/data/3DV-2019-Langlois-et-al_supp.pdf) <br>**
 Langlois, P. A., Boulch, A., & Marlet, R. <br>In 2019 International Conference on 3D Vision (3DV) (pp. 553-563). IEEE.
 ![Project banner](http://imagine.enpc.fr/~langloip/data/banner3DV.png)
 
